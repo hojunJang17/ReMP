@@ -1,2 +1,2 @@
 # ReMP
-Official repository of ReMP (WACV 2025)
+Official repository for ReMP (WACV 2025)
