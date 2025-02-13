@@ -26,12 +26,12 @@
 
 .publication-authors {
   font-family: 'Zen Maru Gothic', serif;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .publication-institute {
   font-family: 'Zen Maru Gothic', serif;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .author-list {
@@ -120,7 +120,7 @@
   margin-right: 0.1rem;
   margin-bottom: 0.5rem;
   font-family: "Zen Maru Gothic", serif;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .link-button:hover {
