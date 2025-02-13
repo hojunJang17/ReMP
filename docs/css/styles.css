@@ -20,18 +20,18 @@
 }
 
 .publication-title {
-  font-family: 'Nunito';
-  font-weight: 600;
+  font-family: 'Zen Maru Gothic', serif;
+  font-weight: 700;
 }
 
 .publication-authors {
-  font-family: 'Nunito';
-  font-weight: 500;
+  font-family: 'Zen Maru Gothic', serif;
+  font-weight: 600;
 }
 
 .publication-institute {
-  font-family: 'Nunito';
-  font-weight: 400;
+  font-family: 'Zen Maru Gothic', serif;
+  font-weight: 600;
 }
 
 .author-list {
@@ -40,7 +40,7 @@
 }
 
 .content{
-  font-family: 'Nunito';
+  font-family: 'Zen Maru Gothic';
 }
 
 .lab-logo img{
@@ -71,7 +71,7 @@
 }
 
 .tldr {
-  font-family: 'Nunito';
+  font-family: 'Zen Maru Gothic', serif;
   font-size: 20px;
   text-align: center;
 }
@@ -95,7 +95,8 @@
 
 .publication-keywords {
   color: #14274e;
-  font-family: 'Nunito';
+  font-family: 'Zen Maru Gothic', serif;
+  font-weight: 800;
 }
 
 
@@ -118,7 +119,8 @@
   margin-left: 0.1rem;
   margin-right: 0.1rem;
   margin-bottom: 0.5rem;
-  font-family: "Nunito";
+  font-family: "Zen Maru Gothic", serif;
+  font-weight: 600;
 }
 
 .link-button:hover {
@@ -138,7 +140,7 @@
   margin: auto;
 }
 .normal-text {
-  font-family: 'Nunito';
+  font-family: 'Zen Maru Gothic';
 }
 .caption {
   margin-top: -1.5rem
