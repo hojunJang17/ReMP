@@ -140,7 +140,7 @@
   margin: auto;
 }
 .normal-text {
-  font-family: 'Zen Maru Gothic';
+  font-family: 'Zen Maru Gothic', serif;
 }
 .caption {
   margin-top: -1.5rem
@@ -155,4 +155,8 @@ ol.custom-marker > li {
 }
 ol.custom-marker.references > li::marker {
   content: "[" counter(list) "]\a0";
+}
+
+.th {
+  font-family: 'Zen Maru Gothic', serif;
 }
