@@ -31,7 +31,6 @@
 
 .publication-institute {
   font-family: 'Zen Maru Gothic', serif;
-  font-weight: 700;
 }
 
 .author-list {
@@ -152,9 +151,12 @@ os.custom-marker {
 ol.custom-marker > li {
   list-style: none;
   counter-increment: list;
+  font-family: 'Zen Maru Gothic', serif;
 }
 ol.custom-marker.references > li::marker {
   content: "[" counter(list) "]\a0";
+  font-family: 'Zen Maru Gothic', serif;
+  font-weight: 700;
 }
 
 .th {
